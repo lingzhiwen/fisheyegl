@@ -3,7 +3,7 @@ var distorter;
 jQuery(document).ready(function($) {
 
   distorter = FisheyeGl({
-    image: 'images/grid.png'
+    image: 'image/grid.png'
   });
 
   $("dl").on("change", adjustLens);
