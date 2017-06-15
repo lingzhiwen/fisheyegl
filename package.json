@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jywarren/fisheyegl.git"
+    "url": "git+https://github.com/lingzhiwen/fisheyegl.git"
   },
   "keywords": [
     "images",
@@ -19,9 +19,9 @@
   "author": "Public Lab",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/jywarren/fisheyegl/issues"
+    "url": "https://github.com/lingzhiwen/fisheyegl/issues"
   },
   "dependencies": {},
   "devDependencies": {},
-  "homepage": "https://github.com/jywarren/fisheyegl"
+  "homepage": "https://github.com/lingzhiwen/fisheyegl"
 }
